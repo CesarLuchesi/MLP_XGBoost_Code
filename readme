@@ -1,0 +1,5 @@
+This work aims to develop a Deep Learning (MLP) model for forecasting
+credit risk, using the Keras and Scikit-learn libraries with optimization of
+hyperparameters via Grid Search. The effectiveness of the algorithm will be evaluated by the metric
+F1-Score and validated comparatively against an XGBoost model, seeking the best
+performance in default detection.
